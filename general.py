@@ -1,12 +1,12 @@
-def splitStringToCharacters(string):
-    return [char for char in string]
+# def splitStringToCharacters(string):
+#     return [char for char in string]
 
 
 
 
 string = str(input("Enter phrase:"))
 
-length=len(string)
+# length=len(string)
 
 
 # singlechars=(splitStringToCharacters(string))
