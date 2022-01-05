@@ -1,6 +1,6 @@
 # Huffman Coding in python
 
-string = input("Enter a phrase")
+string = input("Enter a phrase:")
 
 
 # Creating tree nodes
